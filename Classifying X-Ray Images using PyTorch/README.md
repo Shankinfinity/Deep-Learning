@@ -1,0 +1,1 @@
+This project explores medical image classification using deep learning and PyTorch. The goal is to train a neural network to classify X-ray images into their respective categories based on patterns learned from the training data.
