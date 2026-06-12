@@ -1,0 +1,1 @@
+This is my first deep learning project, completed as part of a DataCamp course. In this project, I learned how to build and train a neural network using PyTorch to classify images from the FashionMNIST dataset.
